@@ -12,7 +12,7 @@ This project takes 8 basic clinical metrics (such as Glucose, BMI, Age, and Insu
 
 ## 📑 Table of Contents
 
-- [✨ Key Features](#key-features)
+- [✨ Key Features](##key-features)
 - [🛠️ Tech Stack](#tech-stack)
 - [📊 Model Performance](#model-performance)
 - [📂 Project Structure](#project-structure)
