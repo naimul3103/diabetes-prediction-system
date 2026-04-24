@@ -141,7 +141,7 @@ _(Replace this section with actual screenshots of your new Gradio Dashboard once
 
 🖼️ **Insert Screenshot Here:** 
 
-![Dashboard screenshot](diabeteis%20prediction.png)
+![Dashboard screenshot](diabeties%20prediction.png)
 
 🖼️ **Medical report card output:**
 ![Medical report card](diabeteis%20prediction.png)
