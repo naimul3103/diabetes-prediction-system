@@ -139,9 +139,12 @@ python final_solution_main.py
 
 _(Replace this section with actual screenshots of your new Gradio Dashboard once you push your code to GitHub)_
 
-🖼️ **Insert Screenshot Here:** Image of the main input dashboard.
+🖼️ **Insert Screenshot Here:** 
 
-🖼️ **Insert Screenshot Here:** Image of the green/red HTML medical report card output.
+![Dashboard screenshot](diabeteis%20prediction.png)
+
+🖼️ **Medical report card output:**
+![Medical report card](diabeteis%20prediction.png)
 
 ---
 
